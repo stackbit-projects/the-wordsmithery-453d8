@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Management is full of thorny problems
-    subtitle: But often times finding the right words can help
+    subtitle: But finding the right words can help
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
