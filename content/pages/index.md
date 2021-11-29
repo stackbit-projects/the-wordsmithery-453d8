@@ -26,7 +26,9 @@ sections:
   - section_id: lorem-ipsum
     title: 'At The Wordsmithery, we understand these challenges first-hand.'
     content: >
-      \*\*\*
+      We've asked our teams for A (or *thought* we'd asked our teams for A),
+      only to have them deliver B. We've (something about feedback not
+      landing)...
 
 
       In fact, we'd even go so far as to say that most problems come down to not
