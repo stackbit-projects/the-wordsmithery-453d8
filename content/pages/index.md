@@ -25,12 +25,14 @@ sections:
     background_color: primary
   - section_id: lorem-ipsum
     title: 'At The Wordsmithery, we understand these challenges first-hand.'
-    content: >-
-      Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
-      efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
-      pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque
-      imperdiet venenatis.
-              
+    content: >
+      \*\*\*
+
+
+      In fact, we'd even go so far as to say that most problems come down to not
+      yet have the write words for describing and negotiating it
+
+
       > Vestibulum ullamcorper risus auctor eleifend consequat.
 
 
