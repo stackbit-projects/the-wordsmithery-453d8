@@ -64,15 +64,14 @@ sections:
           Are you a Director or VP of Engineering who wishes you had more time
           to spend in the weeds with your managers?
         content: >
-          Are you a Director or VP of Engineering with multiple managers on your
-          team who could benefit from dedicated mentorship? Or are you currently
-          leading your organization through a major change, and want to ensure
-          your frontline managers are delivering clear presentations of your
-          organization's goals to their teams? We offer comprehensive plans that
-          include regular 1-1s with all individual managers in your group,
-          same-day "office hour" appointments for timely wordsmithing needs, and
-          checkpoint assessments with teams to ensure messages are landing as
-          intended.
+          Do you have multiple managers on your team who could benefit from
+          dedicated mentorship? Or are you currently leading your organization
+          through a major change, and want to ensure your frontline managers are
+          delivering clear presentations of your organization's goals to their
+          teams? We offer comprehensive plans that include regular 1-1s with all
+          individual managers in your group, same-day "office hour" appointments
+          for timely wordsmithing needs, and checkpoint assessments with teams
+          to ensure messages are landing as intended.
         actions:
           - label: Learn More
             url: /style-guide
