@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - section_id: lorem-ipsum
-    title: 'At The Wordsmithery, we''ve '
+    title: 'At The Wordsmithery, we understand t'
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
       efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
