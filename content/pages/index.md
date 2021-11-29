@@ -125,7 +125,7 @@ sections:
     background_color: primary
   - type: grid_section
     grid_items:
-      - title: Section Item 1
+      - title: 1-1 Management Coaching
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
