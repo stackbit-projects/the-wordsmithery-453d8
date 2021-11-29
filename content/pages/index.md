@@ -69,10 +69,9 @@ sections:
           presentations of your organization's goals to their teams? Or do you
           simply have multiple managers on your team who could benefit from
           dedicated mentorship? We offer comprehensive plans that include
-          regular 1-1s with all individual managers in your group, same-day
-          "office hour" appointments for timely wordsmithing needs, and
-          checkpoint assessments with teams to ensure messages are landing as
-          intended.
+          regular 1-1s with managers in your group, same-day "office hour"
+          appointments for timely wordsmithing needs, and checkpoint assessments
+          with teams to ensure messages are landing as intended.
         actions:
           - label: Learn More
             url: /style-guide
