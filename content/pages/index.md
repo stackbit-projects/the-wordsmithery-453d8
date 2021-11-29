@@ -26,7 +26,7 @@ sections:
   - type: features_section
     title: How We Can Help
     features:
-      - title: The Big Title For the Feature
+      - title: Individual Coaching
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
