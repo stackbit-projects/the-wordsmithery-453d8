@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: Management is full of thorny problems
     subtitle: But finding the right words can help
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      The right words can unlock your own understanding of a problem, can help
+      rally others to your cause, and can ensure everyone remains on the same
+      page as changes are made
     actions:
       - label: Try Free
         url: /pricing
