@@ -7,7 +7,7 @@ sections:
     content: >
       The right words can unlock your own understanding of a problem, can help
       rally others to your cause, and can ensure everyone remains on the same
-      page as changes are made
+      page as progress is made towards a shared goal
     actions:
       - label: Try Free
         url: /pricing
