@@ -6,8 +6,8 @@ sections:
     subtitle: But finding the right words can help
     content: >
       The right words can unlock your own understanding of a problem, can help
-      rally others to your cause, and can ensure everyone remains on the same
-      page as progress is made towards a shared goal
+      rally others to your cause, and can ensure everyone remains working
+      towards the same shared goal
     actions:
       - label: Try Free
         url: /pricing
