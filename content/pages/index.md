@@ -60,7 +60,9 @@ sections:
         media_position: left
         media_width: fifty
       - title: Group Retainers
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: >-
+          Are you a Director or VP of Engineering who wishes you had more time
+          to spend in the weeds with your managers?
         content: >
           Are you a Director or VP of Engineering with multiple managers on your
           team who could benefit from dedicated mentorship? Or are you currently
