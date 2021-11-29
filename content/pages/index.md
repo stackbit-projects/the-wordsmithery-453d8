@@ -166,10 +166,12 @@ sections:
         image_align: left
         image_has_padding: true
       - title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Are you a Director or VP of Engineering with multiple managers on your
+          team who could benefit from dedicated mentorship? Or are you currently
+          leading your organization through a major change, and want to ensure
+          your frontline managers are delivering clear presentations of your
+          organization's goals to their teams? 
         content_align: left
         actions:
           - label: Learn More
